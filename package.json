@@ -1,0 +1,25 @@
+{
+  "name": "lab_test2_nodejs",
+  "version": "1.0.0",
+  "description": "this is for study purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankworld/labtest2_sample_node.git"
+  },
+  "author": "mayanknibhoria1999@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayankworld/labtest2_sample_node/issues"
+  },
+  "homepage": "https://github.com/mayankworld/labtest2_sample_node#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "sqlite3": "^5.1.4"
+  }
+}
